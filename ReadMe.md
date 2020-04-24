@@ -1,4 +1,4 @@
-![Image of the product](https://www.drtechlove.com.au/wp-content/uploads/2019/03/tapwithus5.jpg)
+![Image of the product](https://www.drtechlove.com.au/wp-content/uploads/2019/03/tapwithus5.jpg)  
 Find official API info & manual:
 - https://github.com/TapWithUs/tap-unity-plugin/blob/master/README.md  
   
